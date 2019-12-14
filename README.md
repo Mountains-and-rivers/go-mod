@@ -4,7 +4,7 @@ v1.13 默认开启默认开启go mod
 说明：1.13不允许在 GOPATH 下使用 go mod
 
 
-#第一步：在GOPATH下创建包 GOPATH=D:\gopro
+# 第一步：在GOPATH下创建包 GOPATH=D:\gopro
 
 进入GOPATH：cd D:\gopro
 创建包路径： md src/mypkg/calc
@@ -30,7 +30,7 @@ func Minus(a, b int) int {
 }
 
 ```
- #第一步：引用包文件
+ # 第二步：引用包文件
  在其他非GOPATH路径下创建工程目录 如：D:\go\myPro\main.go
  引用代码 main.go
  ```
@@ -54,10 +54,10 @@ func main() {
 
  ```
  
- #附件1 自定义包
+ # 附件1 自定义包
  
  
- #附件2 引用自定义包
+ # 附件2 引用自定义包
  
  
  
