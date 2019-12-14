@@ -5,12 +5,13 @@ v1.13 默认开启默认开启go mod
 
 
 #第一步：在GOPATH下创建包 GOPATH=D:\gopro
-```
+
 进入GOPATH：cd D:\gopro
 创建包路径： md src/mypkg/calc
 初始化mod：go mod init mypkg/calc
 在caclc下编辑包内容：
-
+calc.go
+```
 package calc
 import (
 	"fmt"
@@ -31,7 +32,7 @@ func Minus(a, b int) int {
 ```
  #第一步：引用包文件
  在其他非GOPATH路径下创建工程目录 如：D:\go\myPro\main.go
- 引用代码
+ 引用代码 main.go
  ```
  package main //必须
 
