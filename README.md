@@ -31,7 +31,8 @@ func Minus(a, b int) int {
 
 ```
  # 第二步：引用包文件
- 在其他非GOPATH路径下创建工程目录 如：D:\go\myPro\main.go  
+ 在其他非GOPATH路径下创建工程目录 如：D:\go\myPro  
+ 在D:\go\myPro下创建主文件 main.go  
  引用代码 main.go  
  ```
  package main //必须
