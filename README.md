@@ -58,7 +58,7 @@ func main() {
  https://github.com/Mountains-and-rivers/go-mod/blob/master/image/1.png
  
  # 附件2 引用自定义包
- 
+ https://github.com/Mountains-and-rivers/go-mod/blob/master/image/2.png
  
  
  
