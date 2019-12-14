@@ -1,5 +1,5 @@
 # go-mod 使用
-v1.13 默认开启默认开启go mod
+v1.13 默认开启go mod
 
 说明：1.13不允许在 GOPATH 下使用 go mod (自定义包)
 
