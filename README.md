@@ -4,7 +4,7 @@ v1.13 默认开启默认开启go mod
 说明：1.13不允许在 GOPATH 下使用 go mod
 
 
-# 第一步：在GOPATH下创建包 GOPATH=D:\gopro
+# 第一步：在GOPATH下创建包 （GOPATH=D:\gopro)
 
 进入GOPATH：```cd D:\gopro  ```  
 创建包路径：``` md src/mypkg/calc  ```  
