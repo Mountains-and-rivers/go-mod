@@ -1,7 +1,7 @@
 # go-mod 使用
 v1.13 默认开启默认开启go mod
 
-说明：现在不允许在 GOPATH 下使用 gomod
+说明：1.13不允许在 GOPATH 下使用 go mod
 
 
 #第一步：在GOPATH下创建包 GOPATH=D:\gopro
@@ -53,4 +53,20 @@ func main() {
 }
 
  ```
+ 
+ #附件1 自定义包
+ 
+ 
+ #附件2 引用自定义包
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  
