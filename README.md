@@ -35,7 +35,7 @@ func Minus(a, b int) int {
  在D:\go\myPro下创建主文件 main.go  
  引用代码 main.go  
  ```
- package main //必须
+ package main
 
 import (
 	"mypkg/calc"
