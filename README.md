@@ -6,8 +6,8 @@ v1.13 默认开启默认开启go mod
 
 # 第一步：在GOPATH下创建包 （GOPATH=D:\gopro)
 
-进入GOPATH：```cd D:\gopro  ```  
-创建包路径：``` md src/mypkg/calc  ```  
+进入GOPATH：```cd D:\gopro\src  ```  
+创建包路径：``` md mypkg/calc  ```  
 初始化mod：```go mod init mypkg/calc  ```  
 在caclc下编辑包内容：
 calc.go
