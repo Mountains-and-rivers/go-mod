@@ -56,11 +56,18 @@ func main() {
   # 说明：
   在mod模式下 会自动从定义的包路径导入包
  
- # 附件1 自定义包
+ # 附件1  单个包自定义
  ![Image text](https://github.com/Mountains-and-rivers/go-mod/blob/master/image/1.png)
  
- # 附件2 引用自定义包
+ # 附件2 引用单个自定义包
  ![Image text](https://github.com/Mountains-and-rivers/go-mod/blob/master/image/2.png)
+ 
+  # 附件1  多个包自定义
+ ![Image text](https://github.com/Mountains-and-rivers/go-mod/blob/master/image/1.png)
+ 
+ # 附件2 引用多个自定义包
+ ![Image text](https://github.com/Mountains-and-rivers/go-mod/blob/master/image/2.png)
+ 
  
  
  
