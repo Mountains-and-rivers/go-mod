@@ -63,10 +63,10 @@ func main() {
  ![Image text](https://github.com/Mountains-and-rivers/go-mod/blob/master/image/2.png)
  
   # 附件1  多个包自定义
- ![Image text](https://github.com/Mountains-and-rivers/go-mod/blob/master/image/1.png)
+ ![Image text](https://github.com/Mountains-and-rivers/go-mod/blob/master/image/3.png)
  
  # 附件2 引用多个自定义包
- ![Image text](https://github.com/Mountains-and-rivers/go-mod/blob/master/image/2.png)
+ ![Image text](https://github.com/Mountains-and-rivers/go-mod/blob/master/image/4.png)
  
  
  
